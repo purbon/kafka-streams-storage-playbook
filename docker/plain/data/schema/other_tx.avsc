@@ -1,0 +1,18 @@
+{
+  "type": "record",
+  "namespace": "io.confluent.tutorial.pojo.avro",
+  "name": "OtherTxDetail",
+  "fields": [
+    {
+      "name": "transactionId",
+      "type": "long",
+      "doc": "The tx number."
+    },
+    {
+      "name": "transactionMainDate",
+      "type": "long",
+      "logicalType": "date",
+      "doc": "The date the transaction was submitted."
+    }
+  ]
+}

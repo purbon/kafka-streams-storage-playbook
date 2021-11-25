@@ -1,0 +1,17 @@
+{
+  "type": "record",
+  "namespace": "io.confluent.tutorial.pojo.avro",
+  "name": "CreditCardInfo",
+  "fields": [
+    {
+      "name": "CreditCardID",
+      "type": "long",
+      "doc": "The CreditCardID"
+    },
+    {
+      "name": "CreditCardOwner",
+      "type": "string",
+      "doc": "The credit card owner"
+    }
+  ]
+}

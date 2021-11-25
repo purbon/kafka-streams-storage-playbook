@@ -1,0 +1,6 @@
+{"transactionMainId": 2343434, "transactionMainDate": 1596490462}#{"TransactionMainID": 2343434, "CreditCardID": 100, "ConsumerID": 456, "ClientID": 1}
+{"transactionMainId": 2343435, "transactionMainDate": 1596491687}#{"TransactionMainID": 2343435, "CreditCardID": 100, "ConsumerID": 456, "ClientID": 1}
+{"transactionMainId": 2343436, "transactionMainDate": 1596491687}#{"TransactionMainID": 2343436, "CreditCardID": 101, "ConsumerID": 456, "ClientID": 1}
+{"transactionMainId": 2343437, "transactionMainDate": 1596490492}#{"TransactionMainID": 2343437, "CreditCardID": 101, "ConsumerID": 456, "ClientID": 1}
+{"transactionMainId": 2343438, "transactionMainDate": 1596490692}#{"TransactionMainID": 2343438, "CreditCardID": 102, "ConsumerID": 456, "ClientID": 1}
+{"transactionMainId": 2343439, "transactionMainDate": 1596490692}#{"TransactionMainID": 2343439, "CreditCardID": 202, "ConsumerID": 456, "ClientID": 1}

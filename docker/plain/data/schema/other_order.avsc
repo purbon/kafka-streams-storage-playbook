@@ -1,0 +1,23 @@
+{
+  "type": "record",
+  "namespace": "io.confluent.tutorial.pojo.avro",
+  "name": "OtherOrderDetail",
+  "fields": [
+    {
+      "name": "number",
+      "type": "long",
+      "doc": "The order number."
+    },
+    {
+      "name": "date",
+      "type": "long",
+      "logicalType": "date",
+      "doc": "The date the order was submitted."
+    },
+    {
+      "name": "state",
+      "type": "string",
+      "doc": "The state for the order."
+    }
+  ]
+}

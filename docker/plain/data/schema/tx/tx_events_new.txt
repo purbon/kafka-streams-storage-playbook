@@ -1,0 +1,2 @@
+{"transactionMainId": 3343434, "transactionMainDate": 1596490462}#{"TransactionMainID": 3343434, "CreditCardID": 300, "ConsumerID": 456, "ClientID": 1}
+{"transactionMainId": 3343435, "transactionMainDate": 1596491687}#{"TransactionMainID": 3343435, "CreditCardID": 300, "ConsumerID": 456, "ClientID": 1}

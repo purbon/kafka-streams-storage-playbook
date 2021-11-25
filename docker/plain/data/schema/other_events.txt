@@ -1,0 +1,5 @@
+{"transactionId": 2343434, "transactionMainDate": 1596490462}#{"number": 2343434, "date": 1596490462, "state": "CA"}
+{"transactionId": 2343435, "transactionMainDate": 1596491687}#{"number": 2343435, "date": 1596491687, "state": "CA"}
+{"transactionId": 2343436, "transactionMainDate": 1596491687}#{"number": 2343436, "date": 1596491687, "state": "CA"}
+{"transactionId": 2343437, "transactionMainDate": 1596490492}#{"number": 2343437, "date": 1596490492, "state": "CA"}
+{"transactionId": 2343438, "transactionMainDate": 1596490692}#{"number": 2343438, "date": 1596490692, "state": "NY"}

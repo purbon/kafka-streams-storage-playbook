@@ -1,0 +1,27 @@
+{
+  "type": "record",
+  "namespace": "io.confluent.tutorial.pojo.avro",
+  "name": "TransactionMain",
+  "fields": [
+    {
+      "name": "TransactionMainID",
+      "type": "long",
+      "doc": "The TransactionMainID."
+    },
+    {
+      "name": "CreditCardID",
+      "type": "long",
+      "doc": "The CreditCardID."
+    },
+    {
+      "name": "ConsumerID",
+      "type": "long",
+      "doc": "The ConsumerID."
+    },
+    {
+      "name": "ClientID",
+      "type": "int",
+      "doc": "The ClientID."
+    }
+  ]
+}

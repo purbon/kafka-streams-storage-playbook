@@ -1,0 +1,12 @@
+{
+  "type": "record",
+  "namespace": "io.confluent.tutorial.pojo.avro",
+  "name": "CCIKey",
+  "fields": [
+    {
+      "name": "CreditCardID",
+      "type": "long",
+      "doc": "CreditCardId"
+    }
+  ]
+}

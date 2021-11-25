@@ -1,0 +1,5 @@
+{"CreditCardID": 100}#{"CreditCardID": 100, "CreditCardOwner": "Pere"}
+{"CreditCardID": 101}#{"CreditCardID": 101, "CreditCardOwner": "Silvia"}
+{"CreditCardID": 102}#{"CreditCardID": 102, "CreditCardOwner": "L"}
+{"CreditCardID": 103}#{"CreditCardID": 103, "CreditCardOwner": "M"}
+{"CreditCardID": 104}#{"CreditCardID": 104, "CreditCardOwner": "P"}
